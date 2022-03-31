@@ -68,6 +68,12 @@ class LinkedList:
         if self.head is None:
             raise Exception("Linked list is empty")
 
+        if index == 0:
+            new_node = self.Node(element)
+            new_node.next = self.head
+            self.head = new_node
+            return
+
         i = 1
         for node in self:
             if i == index:
