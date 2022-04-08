@@ -1,13 +1,11 @@
 # data-structures
 
-Static Array
-Dynamic Array
-Linked List
-Doubly Linked List
-Stack
-Queue
-Priority Queue
-Binary Search Tree
-Hash Table
-*Union Find
-*Fenwick Tree
+### Data structures included:
+- Linked List
+- Doubly Linked List
+- Stack
+- Queue
+- Priority Queue
+- Binary Search Tree
+- Union Find (possibly?)
+- Fenwick Tree (possibly?)
