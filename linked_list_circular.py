@@ -1,0 +1,2 @@
+class CircularLinkedList:
+    pass
